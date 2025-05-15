@@ -1,0 +1,18 @@
+<a id="logout" class="nav-link" href="auth_ecommerce.html">Log Out</a>
+
+cybersqaure
+<button class="google-btn mt-4" fdprocessedid="c0qtbb"><img src="/static/media/google_icon.53ed7ab45a8a03f0e1f9.png"
+                alt="google icon" class="icon img-google"><span class="responsive-google-text"
+                style="font-family: Poppins; font-weight: bold;">Sign in with Google</span></button>
+
+number tests
+
+<input placeholder="First Number" data-testid="input_1" aria-autocomplete="none" type="text" id="first"
+        class="_challengeListInput_28npv_179 form-control" value="3.5" fdprocessedid="5hiyuk">
+
+<button aria-live="off" data-test-id="button-skip" type="button" aria-label="Skip" data-action="skip" role="button"
+        title="Skip"></button> 
+        
+        <button type="button" class="btn btn-primary">Accept</button>
+
+        <button type="submit" data-testid="submit" class="_challengeButtons_28npv_115  btn btn-primary">Calculate</button>
